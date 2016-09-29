@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\bin\Debug\ListSlide34HW.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\bin\Debug\ListSlide34HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\bin\Debug\ListSlide34HW.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\obj\Debug\ListSlide34HW.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\obj\Debug\ListSlide34HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34HW\ListSlide34HW\obj\Debug\ListSlide34HW.pdb
